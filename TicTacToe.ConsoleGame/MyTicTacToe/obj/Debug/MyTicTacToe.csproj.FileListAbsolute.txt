@@ -1,0 +1,6 @@
+C:\Users\T\Documents\GitHub\ConsoleGames\TicTacToe.ConsoleGame\MyTicTacToe\bin\Debug\MyTicTacToe.exe.config
+C:\Users\T\Documents\GitHub\ConsoleGames\TicTacToe.ConsoleGame\MyTicTacToe\bin\Debug\MyTicTacToe.exe
+C:\Users\T\Documents\GitHub\ConsoleGames\TicTacToe.ConsoleGame\MyTicTacToe\bin\Debug\MyTicTacToe.pdb
+C:\Users\T\Documents\GitHub\ConsoleGames\TicTacToe.ConsoleGame\MyTicTacToe\obj\Debug\MyTicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\T\Documents\GitHub\ConsoleGames\TicTacToe.ConsoleGame\MyTicTacToe\obj\Debug\MyTicTacToe.exe
+C:\Users\T\Documents\GitHub\ConsoleGames\TicTacToe.ConsoleGame\MyTicTacToe\obj\Debug\MyTicTacToe.pdb
